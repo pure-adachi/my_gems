@@ -1,0 +1,15 @@
+AllCops:
+  Exclude:
+    - "bin/*"
+    - "spec/spec_helper.rb"
+    - "Guardfile"
+    - "Gemfile"
+    - "*.gemspec"
+    - "Rakefile"
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/BlockLength:
+  Exclude:
+    - "spec/**/*"
