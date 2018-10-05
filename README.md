@@ -1,39 +1,8 @@
 # MyGems
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/my_gems`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![CircleCI](https://circleci.com/gh/pure-adachi/my_gems.svg?style=svg)](https://circleci.com/gh/pure-adachi/my_gems)
 
-TODO: Delete this and the text above, and describe your gem
+[![Maintainability](https://api.codeclimate.com/v1/badges/5bb7211d9b9c0e02a9005744/maintainability)](https://codeclimate.com/github/pure-adachi/my_gems/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/5bb7211d9b9c0e02a9005744/test_coverage)](https://codeclimate.com/github/pure-adachi/my_gems/test_coverage)
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'my_gems'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install my_gems
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/my_gems.
-
-## License
-
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+An example of Fizz Buzz.
